@@ -1,7 +1,6 @@
-# Tugas ML (C) Cartesian Coordinate Quadrants & Number_Sorting
+# Tugas ML (C) Cartesian Coordinate Quadrants & Number Sorting
 
-Program Penentuan Kuadran Koordinat Kartesius dan Program Pengurutan Bilangan
-
+## Program Penentuan Kuadran Koordinat Kartesius dan Program Pengurutan Bilangan
 
 Nama            : I Kadek Rai Pramana
 
